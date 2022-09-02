@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Estou graduando em Análise e Desenvolvimento de Sistemas.
+- 🔭  Graduando em Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando a Linguagem Python e desenvolvimento web com Django framework.
 <div align="center">
   <a href="https://github.com/marinaelpidio29">
